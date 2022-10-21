@@ -1,16 +1,16 @@
 {
-"name": "pdvp",
-"theme": "pdvp",
-"version": "2.9.2",
-"description": "pdvp สมัครเว็บไซต์แทงบอลเว็บตรง คนเล่นเยอะ แจกโบนัสเครดิตฟรี",
-"keywords": [
-"pdvp",
-"pdvp เครดิตฟรี",
-"pdvp ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/pdvp",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "pdvp",
+  "theme": "pdvp",
+  "version": "2.10.0",
+  "description": "pdvp สมัครเว็บไซต์แทงบอลเว็บตรง คนเล่นเยอะ แจกโบนัสเครดิตฟรี",
+  "keywords": [
+    "pdvp",
+    "pdvp เครดิตฟรี",
+    "pdvp ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/pdvp",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
